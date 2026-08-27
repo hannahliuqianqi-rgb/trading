@@ -1,0 +1,7 @@
+{
+  "name": "TradingView Markets",
+  "description": "Interactive financial market overview tracking indices, stocks, crypto, futures, forex, and bonds with real-time charts, sparklines, and technical metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
